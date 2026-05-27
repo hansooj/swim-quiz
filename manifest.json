@@ -1,0 +1,25 @@
+{
+  "name": "수영 구술 연습 - 2급 생활스포츠지도사",
+  "short_name": "수영구술",
+  "description": "2급 생활스포츠지도사 수영 구술시험 4문제 세트 실전 연습. AI 심사위원 채점, 음성 입력 지원.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "public/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "public/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
